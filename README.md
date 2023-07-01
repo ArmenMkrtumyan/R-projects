@@ -1,2 +1,2 @@
 # R_Projects
-University projects with R
+American University of Armenia projects with R
